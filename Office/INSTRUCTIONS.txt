@@ -1,0 +1,18 @@
+https://www.youtube.com/watch?v=u80roDVx5Lw
+
+.\setup.exe /configure .\configuration-office2019Enterprise.xml
+- Office 2019
+
+.\setup.exe /configure .\configuration-office2021Enterprise.xml
+- Office 2021
+
+
+note : run after running powershell in that directory. either via cd for typing powershell in the address bar.
+
+https://msguides.com/office-365 - Other way of activating office
+
+or
+
+run powershell as admin and enter : 
+
+irm https://get.activated.win | iex
